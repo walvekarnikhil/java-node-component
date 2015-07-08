@@ -9,6 +9,8 @@ This base image therefore provides those common steps so you can run with `--no-
 ## Example component Dockerfile
 
 ```
+from carboni.io/java-phantom-component
+
 # Consul check
 
 WORKDIR /etc/consul.d
