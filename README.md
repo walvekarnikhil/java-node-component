@@ -9,7 +9,7 @@ This base image therefore provides those common steps so you can run with `--no-
 ## Example component Dockerfile
 
 ```
-from carboni.io/java-phantom-component
+from carboni.io/java-node-component
 
 # Consul check
 
