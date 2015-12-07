@@ -1,4 +1,4 @@
-from onsdigital/java-component
+FROM onsdigital/java-component
 
 # Node.js
 
